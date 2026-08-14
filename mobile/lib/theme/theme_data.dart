@@ -56,8 +56,8 @@ ThemeData getThemeData({required ColorScheme colorScheme, required Locale locale
     ),
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
-        backgroundColor: colorScheme.primary,
-        foregroundColor: isDark ? Colors.black87 : Colors.white,
+        backgroundColor: Colors.red,
+        foregroundColor: Colors.white,
       ),
     ),
     chipTheme: const ChipThemeData(side: BorderSide.none),
