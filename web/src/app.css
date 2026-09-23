@@ -67,12 +67,12 @@
 @layer base {
   :root {
     /* light */
-    --immich-primary: 66 80 175;
+    --immich-primary: 220 38 38;
     --immich-bg: 255 255 255;
     --immich-fg: 0 0 0;
 
     /* dark */
-    --immich-dark-primary: 172 203 250;
+    --immich-dark-primary: 248 113 113;
     --immich-dark-bg: 10 10 10;
     --immich-dark-fg: 229 231 235;
     --immich-dark-gray: 33 33 33;
